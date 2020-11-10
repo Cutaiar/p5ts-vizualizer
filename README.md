@@ -12,3 +12,7 @@ Visualize something just to use p5 with ts.
 ## Developing
 
 There is no hot reloading yet. Just open two terminals -- one for `start` and one for `build`.
+
+#### To add new songs:
+
+Put new tracks in `/tracks` and change the path in `index.ts:1` to reference them.
